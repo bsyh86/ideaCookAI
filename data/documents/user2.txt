@@ -5,8 +5,8 @@ Sarah's Daily Notes - Customer Health Dashboard
 Goal: Reduce POS issues to be better
 
 Key Activities:
-Do more task.
-Clear calendar.
+Do more task. if can.
+Clear calendar. when free.
 Keep merchant happy.
 
 
@@ -14,3 +14,11 @@ Concerns:
 Need to have players know more about system - to provide good responses and reduce complaints
 
 
+
+
+
+
+
+
+
+Feedback: This idea needs more specific actions to be effective. Instead of vague tasks, define exactly what "more tasks" means in terms of specific troubleshooting steps or system checks. Also, quantify "keep merchant happy" by setting measurable goals, like a target satisfaction score or a reduction in churn.

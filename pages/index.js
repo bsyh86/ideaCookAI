@@ -95,6 +95,17 @@ export default function Home() {
       if (data.success) {
         setAppState('COMPLETE');
         setStatusMessage('Complete! All ideas have been processed and scored.');
+        
+        // Refresh documents to show appended cooked ideas
+        try {
+          const docsResponse = await fetch('/api/documents');
+          const docsData = await docsResponse.json();
+          if (docsData.success) {
+            setDocuments(docsData.documents);
+          }
+        } catch (error) {
+          console.error('Error refreshing documents:', error);
+        }
       } else {
         setAppState('ERROR');
         setStatusMessage('Error: ' + data.error);
