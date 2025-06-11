@@ -1,0 +1,20 @@
+Author: david.sales@company.com
+
+David's Daily Notes - CRM & Voicemail Reminders
+
+Objective: CLOSE The Gourmet Group deal.
+
+Urgent Tasks:
+Left 2 voicemails for their CTO. Need to confirm ETA on the Custom Loyalty Program feature. This is a non-negotiable for them. They will not sign without it.
+
+Need Product to commit to a Q3 delivery for the Loyalty feature. Have they started development? Emailed Charles again.
+
+The client also mentioned a simple "Out of Stock" button as a "nice to have" for their servers. Pitched it as something we can deliver quickly to build goodwill.
+
+Concerns:
+Product seems to be dragging their feet. Charles keeps talking about "scalability" and "roadmaps." We need to be agile and respond to the market's biggest fish.
+
+Marketing is sending me generic leads when my entire focus is on this one enterprise account.
+
+Meeting Prep: Need a slide deck showing a mock-up of The Gourmet Group's branding on our loyalty interface.
+

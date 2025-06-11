@@ -1,0 +1,5 @@
+{
+  "david.sales@company.com": 19,
+  "charles.product@company.com": 16,
+  "toby.bi@company.com": 2
+}

@@ -1,0 +1,26 @@
+{
+  "name": "ideacookai",
+  "version": "1.0.0",
+  "description": "A local-first content analysis and synthesis tool using Gemini API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "ai",
+    "content-analysis",
+    "idea-synthesis"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.1.0",
+    "dotenv": "^16.5.0",
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
